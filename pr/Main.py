@@ -1,4 +1,4 @@
-from utilits import get_discr, get_eq_root, input_param
+from qudr.utilits import get_discr, get_eq_root, input_param
 #from utilits import * #!!*
 #import utilits
 def main():
