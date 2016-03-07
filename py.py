@@ -5,5 +5,5 @@ s = s.lower()
 countVowels = 0
 
 for i in vowels:
-    countVowels = countVowels + s.count(i)
+    countVowels = + s.count(i)
     print countVowels
